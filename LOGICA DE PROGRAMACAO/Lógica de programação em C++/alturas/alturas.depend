@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753044562 source:c:\users\enrico\onedrive\Área de trabalho\programação\linguagem c\lógica de programação em c++\alturas\main.cpp
+	<iostream>
+	<iomanip>
+	<climits>
+
